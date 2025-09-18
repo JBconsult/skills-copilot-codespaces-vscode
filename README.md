@@ -72,6 +72,44 @@ Let's try this out utilizing Javascript for Copilot.
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
 
+## 🚀 Azure Cloud Development
+
+Looking to take your development to the cloud? This repository now includes comprehensive guidance for building and deploying applications in Microsoft Azure!
+
+### 📚 Azure Development Resources
+
+- **[Azure Development Guide](AZURE_DEVELOPMENT_GUIDE.md)** - Complete guide for developing apps in Azure
+- **[Azure Examples](azure-examples/)** - Ready-to-use templates and configurations including:
+  - ARM templates for infrastructure
+  - Docker configurations
+  - CI/CD pipelines (GitHub Actions & Azure DevOps)
+  - Terraform and Bicep examples
+  - Deployment scripts
+
+### 🛠️ What You'll Learn
+
+- Setting up Azure development environments with virtual machines
+- Building cloud-native applications
+- Testing strategies for Azure applications
+- Deployment options (App Service, Containers, Kubernetes)
+- CI/CD pipeline integration
+- Monitoring and troubleshooting
+- Security best practices
+- Cost optimization techniques
+
+### ⚡ Quick Start with Azure
+
+1. **Read the [Azure Development Guide](AZURE_DEVELOPMENT_GUIDE.md)** for comprehensive instructions
+2. **Explore the [azure-examples](azure-examples/)** directory for templates and scripts
+3. **Use the deployment script**: `./azure-examples/deploy.sh -g myapp-rg -a myapp deploy`
+
+Perfect for developers who want to:
+- Develop applications in cloud environments
+- Learn Azure services and best practices
+- Implement DevOps practices with Azure
+- Scale applications globally
+- Build production-ready cloud solutions
+
 <footer>
 
 <!--
